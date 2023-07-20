@@ -34,3 +34,11 @@ body{
     box-shadow: 1px 1px 20px 2px gold;
     transition: all 0.5s;
 }
+
+#i{
+    color: white;
+    font-family: cursive;
+}
+#ntranet{
+    color: orange;
+}
