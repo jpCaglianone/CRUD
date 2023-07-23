@@ -2,11 +2,18 @@ body{
     background: #fdf6ed;
     width: 100%;
 }
-
-#cont{
-    margin-top: 20px;
-    width: 100%;
+header{
     text-align: center;
+}
+#cont{
+    margin-top: 25px;
+    display: inline-flex;
+}
+
+#intranet{
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left: 10px;
 }
 
 #logo{
@@ -38,7 +45,11 @@ body{
 #i{
     color: black;
     font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
 }
 #ntranet{
     color: orange;
+    font-weight: lighter;
 }
+
